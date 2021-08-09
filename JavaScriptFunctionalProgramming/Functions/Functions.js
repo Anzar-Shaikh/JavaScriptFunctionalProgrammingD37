@@ -36,7 +36,7 @@ switch (selectio){
 
 let check = function(number){
     let originalNumber = number;
-    let x;
+    let rem;
     let temp = 0 ;
 
     while (number > 0 ){
